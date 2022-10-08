@@ -12,7 +12,7 @@
 }
 
 .fill {
-    --color: #a972cb;
+    --color: rgb(158, 185, 104);
     --hover: hotpink;
 }
 
@@ -21,8 +21,9 @@ button {
 }
 button:hover, button:focus {
     border-color: var(--hover);
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     transition: 0.20s;
+    font-weight: 600;
 }
 
 body {
@@ -41,7 +42,6 @@ button {
     background: none;
     border: 2px solid;
     font: inherit;
-    font-weight: 200px;
     line-height: 1;
     margin: 0.5em;
     padding: 1em 2em;
