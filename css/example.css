@@ -6,22 +6,23 @@
     height: 100px;
 }
 
-.fill:hover,
-.fill:focus {
-    box-shadow: inset 0 0 0 2em var(--hover);
+.raise:hover,
+.raise:focus {
+  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+  transform: translateY(-0.25em);
 }
 
-.fill {
+.raise {
     --color: rgb(158, 185, 104);
     --hover: hotpink;
-}
+  }
 
 button {
     color: var(--color)
 }
 button:hover, button:focus {
     border-color: var(--hover);
-    color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
     transition: 0.20s;
     font-weight: 600;
 }
@@ -59,4 +60,8 @@ h3 {
 img {
     height: auto;
     width: 800;
+}
+
+html {
+    scroll-behavior:smooth;
 }
