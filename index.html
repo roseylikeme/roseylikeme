@@ -13,7 +13,7 @@
 <div class="flexbox-centering">
    <h1 id="top">Table of Contents</h1> <!--Top of page-->
 </div>
-<div class="container">
+<div class="container"> <!--Holds the buttons-->
    <button class="raise" onclick="location.href='#about_me'">About Me</button>
    <button class="raise" onclick="location.href='#finances'">Finances</button>
    <button class="raise" onclick="location.href='#languages'">Languages</button>
@@ -21,48 +21,60 @@
    <button class="raise" onclick="location.href='#games'">Games</button>
 </div>
    <hr>
+<div class="container-body">
    <h2 id="about_me">About Me</h2>
-   <p>Hello World! Welcome to my page. My name is Rose, and I truly value 
-      education. I enjoy learning, finances, reading books,
-      and I love people. </p>
-      <img src="https://thumbs.gfycat.com/LavishInformalCopepod-max-1mb.gif" alt="" width="900" height="600" title="Gif of a rose">
+   <div class="aligner">
+      <div class="aligner-item aligner-item--top"><p>Hello World! Welcome to my page. My name is Rose, and I truly value 
+         education. I enjoy learning, finances, reading books,
+         and I love people. </p></div>
+   </div>
+      <img src="https://thumbs.gfycat.com/LavishInformalCopepod-max-1mb.gif" alt="" width="600" height="400" title="Gif of a rose">
    <h2 id="finances">Finances</h2>
-   <p>When I turned 18, I researched all about finances and how to
-      get my life straight.<br> My parents lived their life one
-      way, and I will live it another. I want to be better.<br>
-      I learned all I could about credit cards, credit scores,
-      and negotiations.<br> I read books about trauma, one's self journey,
-      and any book that will serve its purpose and make me a better person.
-   </p>
-   <p>
-      A youtuber I watched to kick off my journey in finance was Graham Stephan. Then, I went
-      ahead and joined facebook groups relolving around credit cards and maximizing rewards
-      /cashback. Reddit pages such as r/personalfinance is a good place to start learning.
-   </p>
+   <div class="aligner">
+      <div class="aligner-item aligner-item--top">
+         <p>When I turned 18, I researched all about finances and how to
+            get my life straight. My parents lived their life one
+            way, and I will live it another. I want to be better.</p>
+         <p>
+            I learned all I could about credit cards, credit scores,
+            and negotiations. I read books about trauma, one's self journey,
+            and any book that will serve its purpose and make me a better person.
+         </p>
+         <p>
+            A youtuber I watched to kick off my journey in finance was Graham Stephan. Then, I went
+            ahead and joined facebook groups relolving around credit cards and maximizing rewards
+            /cashback. Reddit pages such as r/personalfinance is a good place to start learning.
+         </p>
+      </div>
+   </div>
    <h2 id="languages">Languages</h2>
-   <p>I've taught myself to speak 4 languages and am continuing to learn more as we speak (or as you read).
-      <ul>
-         <li>English</li>
-         <li>Korean or 한국어</li>
-         <li>Tagalog</li>
-         <li>Kapampangan</li>
-      </ul>
-      On top of those spoken languages, I have committed myself into learning the languages of
-      the computers. Previous to joining Year Up, I've gained some experience
-      in coding in these languages:
-      <ul>
-         <li>Java: 9 years ago, or when I was 11 years old, I created mods for <a href="https://www.planetminecraft.com/mod/justfamouss-moar-flowers-mod-164-/" target="_blank">Minecraft</a>.</li><br>
-         <li>Renpy: 7 years ago, at 13 years old, I've created and taught
-            people how to create their own visual novel game. <a href="https://www.youtube.com/watch?v=J-R1gWkfa2U" target="_blank">Link to Youtube Video</a>
-         </li><br>
-         <li>Python: This year, at 20 years old, I've dabbled into Python and learned
-            enough to create my own Alien Invasion game, as well as create mini projects
-            such as an Overtime Calculator, Weight Converters, and a Magic 8 Ball program.
-         </li><br>
-         <li>HTML/CSS/Javascript: Now I am currently learning Front End Development.
-         </li>
-      </ul>
-      <br>
+   <div class="aligner">
+      <div class="aligner-item aligner-item--top">
+         <p>I've taught myself to speak 4 languages and am continuing to learn more as we speak (or as you read).
+            Currently I know:
+            <div class="container">
+               <button class="raise">English</button>
+               <button class="raise">Korean</button>
+               <button class="raise">Tagalog</button>
+               <button class="raise">Kapampangan</button>
+            </div>
+            
+         On top of those spoken languages, I have committed myself into learning the languages of
+         the computers. Prior to joining Year Up, I've gained some experience
+         in coding in these languages:
+         <h3>Java</h3>
+         <p>I created mods for <a href="https://www.planetminecraft.com/mod/justfamouss-moar-flowers-mod-164-/" target="_blank">Minecraft</a>.</p>
+         <h3>Renpy</h3>
+         <p>I've created and taught people how to create their own visual novel game. <a href="https://www.youtube.com/watch?v=J-R1gWkfa2U" target="_blank">Link to Youtube Video</a></p>
+         <h3>Python</h3>
+         <p>I've dabbled into Python and learned enough to create my own Alien Invasion game, as well as create mini projects
+            such as an Overtime Calculator, Weight Converters, and a Magic 8 Ball program.</p>
+         <h3>HTML / CSS / Javascript</h3>
+         <p>Now I am currently learning Front End Development.</p>
+      </div>
+      </div>
+      <br></div>
+   
       <h2 id="music">Music</h2>
       <p>Ocassionally, I enjoy making music. I recently released my song "run" on streaming platforms.</p>
       <a href="https://distrokid.com/hyperfollow/rxselene/run"><img src="images/run.png" alt="album cover to rxselene's song 'run'" width="300" height="300" title="Redirects you to distrokid to find my song!"></a>
@@ -74,6 +86,7 @@
       <p>I enjoyed playing Minecraft minigames and playing modded minecraft.</p>
       <h3>Valorant</h3>
       <p>I started playing Valorant in 2021. I definitely should quit.</p>
+</div>
       <hr>
       <p><a href="contact.html">Contact</a> • <a href="#top">Back to Top</a></p> <!--Create a hyperlink using a relative url here-->
    </p>
