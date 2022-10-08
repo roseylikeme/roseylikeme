@@ -1,7 +1,52 @@
+
+.flexbox-centering {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+}
+
+.fill:hover,
+.fill:focus {
+    box-shadow: inset 0 0 0 2em var(--hover);
+}
+
+.fill {
+    --color: #a972cb;
+    --hover: hotpink;
+}
+
+button {
+    color: var(--color)
+}
+button:hover, button:focus {
+    border-color: var(--hover);
+    color: rgb(0, 0, 0);
+    transition: 0.20s;
+}
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgb(255, 255, 255);
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
 }
+
+
+
+button {
+    background: none;
+    border: 2px solid;
+    font: inherit;
+    font-weight: 200px;
+    line-height: 1;
+    margin: 0.5em;
+    padding: 1em 2em;
+}
+
 
 h1, h2{
     color:hotpink;
