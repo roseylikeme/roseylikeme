@@ -1,9 +1,11 @@
 
-.flexbox-centering {
+.container,
+.flexbox-centering{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100px;
+    padding: 10px;
+    margin-bottom: 10px;
 }
 
 .raise:hover,
@@ -15,7 +17,7 @@
 .raise {
     --color: rgb(158, 185, 104);
     --hover: hotpink;
-  }
+}
 
 button {
     color: var(--color)
@@ -35,9 +37,10 @@ body {
     align-items: center;
     text-align: center;
     min-height: 100vh;
+    margin: auto;
+    width: 800px;
+    padding: 50px;
 }
-
-
 
 button {
     background: none;
@@ -48,6 +51,32 @@ button {
     padding: 1em 2em;
 }
 
+.aligner {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+
+    /* Optional Style*/
+    padding: 20px;
+    border-style: solid;
+    border-color: #B6C7D6;
+    border-radius: 20px;
+    background-color: #EAF0F6;
+}
+
+.aligner-item {
+    max-width: 50%;
+    line-height: 24px;
+}
+
+.aligner-item--top {
+    align-self: flex-start;
+}
+
+.aligner-item--bottom {
+    align-self: flex-end;
+}
 
 h1, h2{
     color:hotpink;
