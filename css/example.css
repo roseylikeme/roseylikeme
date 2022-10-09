@@ -7,26 +7,46 @@
     padding: 10px;
     margin-bottom: 10px;
 }
+/** Different Button Styles:
 
-.raise:hover,
-.raise:focus {
-  box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
-  transform: translateY(-0.25em);
-}
+• raise
+• raise-blue
 
+**/
 .raise {
     --color: rgb(158, 185, 104);
     --hover: hotpink;
 }
 
+.raise-blue { 
+    --color: rgb(158, 185, 104);
+    --hover: rgb(105, 195, 255);
+}
+
+.raise-blue:hover,
+.raise:hover{
+    box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
+    transform: translateY(-0.25em);
+  }
+
 button {
     color: var(--color)
 }
-button:hover, button:focus {
-    border-color: var(--hover);
-    color: rgb(0, 0, 0);
-    transition: 0.20s;
+button:hover{
+    color:rgb(0, 0, 0);
+    transition: .20s;
     font-weight: 600;
+    border-color: var(--hover);
+}
+
+/** Stylizes the Button **/
+button {
+    background: none;
+    border: 2px solid; /** Edits border thickness of button **/
+    font: inherit; /** Inherits the font of the body **/
+    line-height: 1;
+    margin: 0.5em;
+    padding: 1em 2em;
 }
 
 body {
