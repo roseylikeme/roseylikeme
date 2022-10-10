@@ -23,7 +23,7 @@
     --hover: rgb(105, 195, 255);
 }
 
-.raise-blue:hover,
+.raise-blue:hover, /** Raises the button when hovered**/
 .raise:hover{
     box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
     transform: translateY(-0.25em);
@@ -75,7 +75,7 @@ button {
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: auto;
+    margin: 1em;
 
     /* Optional Style*/
     padding: 20px;
