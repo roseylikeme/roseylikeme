@@ -11,18 +11,30 @@
 
 • raise
 • raise-blue
+• raise-yellow
 
 **/
 .raise {
     --color: rgb(158, 185, 104);
     --hover: hotpink;
 }
-
 .raise-blue { 
     --color: rgb(158, 185, 104);
     --hover: rgb(105, 195, 255);
 }
+.raise-yellow { 
+    --color: rgb(158, 185, 104);
+    --hover: yellow;
+}
 
+.raise-orange{
+    --color: rgb(158, 185, 104);
+    --hover: orange;
+}
+
+.raise-orange:hover,
+.raise-yellow:hover,
+.raise-green:hover,
 .raise-blue:hover, /** Raises the button when hovered**/
 .raise:hover{
     box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
