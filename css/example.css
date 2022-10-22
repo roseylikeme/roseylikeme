@@ -39,6 +39,7 @@
 .raise:hover{
     box-shadow: 0 0.5em 0.5em -0.4em var(--hover);
     transform: translateY(-0.25em);
+    white-space: nowrap; /*Prevents multiple lined buttons*/
   }
 
 button {
@@ -72,15 +73,6 @@ body {
     margin: auto;
     width: 800px;
     padding: 50px;
-}
-
-button {
-    background: none;
-    border: 2px solid;
-    font: inherit;
-    line-height: 1;
-    margin: 0.5em;
-    padding: 1em 2em;
 }
 
 .aligner {
@@ -124,7 +116,7 @@ img {
 }
 
 html {
-    scroll-behavior:smooth;
+    scroll-behavior:smooth; /*Makes pages jumps smoother*/
 }
 
 a {
