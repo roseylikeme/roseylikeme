@@ -5,6 +5,17 @@
 ## Stuff I'm learning 📚
 - Improving my knowledge in both **frontend** and **backend** development.
 
+## Checkout My Journey
+🍃 [Odin Recipes](https://roseylikeme.github.io/odin-recipes/) • Completed Oct 7, 2022
+
+🌱 [The Rose Project](https://roseylikeme.github.io/roseylikeme/) • Start Oct 8, 2022 • Last Updated Oct 21, 2022
+
+☘️ [Arithmetic Calculator](https://github.com/roseylikeme/arithmetic-calculator) • Start Nov 3, 2022 • Completed Nov 4, 2022
+
+🍀 [Temperature Converter](https://roseylikeme.github.io/temperature-converter/) • Start Nov 4, 2022 • Compelted Nov 5, 2022
+
+🌿 [Car Rental Project](https://roseylikeme.github.io/car-rental/) • Start Nov 10, 2022 • Completed Nov 11, 2022
+
 ## Technologies
 Languages<br>
 [![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#) 
