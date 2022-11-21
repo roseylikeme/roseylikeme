@@ -16,7 +16,7 @@
 
 🌿 [Car Rental Project](https://roseylikeme.github.io/car-rental/) • Start Nov 10, 2022 • Completed Nov 11, 2022
 
-🌿 [Football Teams Project](https://github.com/roseylikeme/football-project) • Start Nov 19, 2022 • Estimated Completion Date Nov 21, 2022
+🌿 [Football Teams Project](https://github.com/roseylikeme/football-project) • Start Nov 19, 2022 • Completed Nov 20, 2022
 
 ## Technologies
 Languages<br>
