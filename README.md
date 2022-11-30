@@ -18,6 +18,8 @@
 
 🌿 [Football Teams Project](https://github.com/roseylikeme/football-project) • Start Nov 19, 2022 • Completed Nov 20, 2022
 
+🐸 [Enjoy The Outdoors Project](https://github.com/roseylikeme/enjoy-the-outdoors) • Start Nov 26, 2022 • Completed Nov 29, 2022
+
 ## Technologies
 Languages<br>
 [![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#) 
