@@ -4,6 +4,7 @@
 
 ## Stuff I'm learning 📚
 - Improving my knowledge in both **frontend** and **backend** development.
+- Java ☕️ & Python 🐍
 
 ## Checkout My Journey
 🍃 [Odin Recipes](https://roseylikeme.github.io/odin-recipes/) • Completed Oct 7, 2022
