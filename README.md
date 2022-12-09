@@ -19,6 +19,8 @@
 
 🌿 [Football Teams Project](https://github.com/roseylikeme/football-project) • Start Nov 19, 2022 • Completed Nov 20, 2022
 
+🌿 [Tourist Bureau](https://roseylikeme.github.io/tourist-bureau/) • Start Nov 21, 2022 • Completed Nov 23, 2022
+
 🐸 [Enjoy The Outdoors Project](https://github.com/roseylikeme/enjoy-the-outdoors) • Start Nov 26, 2022 • Completed Nov 29, 2022
 
 ## Technologies
