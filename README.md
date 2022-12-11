@@ -23,6 +23,10 @@
 
 🐸 [Enjoy The Outdoors Project](https://github.com/roseylikeme/enjoy-the-outdoors) • Start Nov 26, 2022 • Completed Nov 29, 2022
 
+🐛 [Cats 🐈 and Facts • API](https://github.com/roseylikeme/cats-and-facts) • Start Dec 6, 2022 • Completed Dec 10, 2022
+
+🐢 [Weather App • API Project](https://github.com/roseylikeme/weather-api) • Start Dec 10, 2022 • Completed Dec 11, 2022
+
 ## Technologies
 Languages<br>
 [![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=7FFFD4) [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white)](#) 
