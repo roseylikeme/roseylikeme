@@ -27,7 +27,7 @@
 
 🐢 [Weather App • API Project](https://github.com/roseylikeme/weather-api) • Start Dec 10, 2022 • Completed Dec 11, 2022
 
-🐍 [Northwind Groceries • API](https://github.com/roseylikeme/northwind-grocery) • Start Dec 13, 2022 • Dec 19, 2022   
+🐍 [Northwind Groceries • API](https://github.com/roseylikeme/northwind-grocery) • Start Dec 13, 2022 • Completed Dec 19, 2022   
 
 ## Technologies
 Languages<br>
