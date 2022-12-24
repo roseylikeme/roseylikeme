@@ -29,7 +29,7 @@
 
 🐍 [Northwind Groceries • API](https://github.com/roseylikeme/northwind-grocery) • Start Dec 13, 2022 • Completed Dec 19, 2022   
 
-🥑 [Stay Organized • To-Do](https://github.com/roseylikeme/stay-organized) • Start Dec 19, 2022 • Estimated Completion Dec 26, 2022
+🐍 [Stay Organized • To-Do](https://github.com/roseylikeme/stay-organized) • Start Dec 19, 2022 • Estimated Completion Dec 26, 2022
 
 ## Technologies
 Languages<br>
