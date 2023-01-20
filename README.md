@@ -7,7 +7,7 @@
 - Java ☕️ & Python 🐍
 
 ## Checkout My Journey
-🐍 [Code: RARE](https://github.com/roseylikeme/code-rare) • Start Jan 10, 2023
+🐍 [Code: RARE](https://github.com/roseylikeme/code-rare) • Start Jan 10, 2023 • Completed Jan 20, 2023
 
 🐍 [Stay Organized • To-Do](https://github.com/roseylikeme/stay-organized) • Start Dec 19, 2022 • Completed Jan 8, 2023
 
