@@ -49,7 +49,7 @@ Languages<br>
 [![Javascript](https://img.shields.io/badge/-Javascript-000?style=for-the-badge&logo=javascript)](#) [![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=html5)](#) [![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=css3&logoColor=1572B6)](#) ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=7FFFD4) [![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java&logoColor=white)](#) 
 
 Frameworks <br>
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap) ![Semantic UI](https://img.shields.io/badge/Semantic%20UI-black?style=for-the-badge&logo=SemanticUIReact&badgeColor=010101)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap) ![Semantic UI](https://img.shields.io/badge/Semantic%20UI-black?style=for-the-badge&logo=SemanticUIReact&badgeColor=010101) ![Ember.js](https://img.shields.io/badge/Ember.JS%20-black?style=for-the-badge&logo=ember.js&badgeColor=010101)
 
 
 Version Control <br>
