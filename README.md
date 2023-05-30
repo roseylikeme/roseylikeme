@@ -4,7 +4,7 @@
 
 ## Stuff I'm learning 📚
 - Improving my knowledge in both **frontend** and **backend** development.
-- Java ☕️ & Python 🐍
+- Chinese 我最喜欢学习语言 (I love learning languages the most!)
 
 ## Checkout My Journey
 🐍 [Code: RARE • Social Media Blog Website](https://github.com/roseylikeme/code-rare) • Start Jan 10, 2023 • Completed Jan 20, 2023
