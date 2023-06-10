@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Roselene Gabun!</h1>
 
-<h3 align="center">An aspiring software engineer and student @ Year Up from San Francisco, CA.</h3>
+<h3 align="center">Software Engineer @ LinkedIn</h3>
 
 ## Stuff I'm learning 📚
 - Improving my knowledge in both **frontend** and **backend** development.
