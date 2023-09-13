@@ -2,12 +2,13 @@
 
 <h3 align="center">EX: Software Engineer Intern @ LinkedIn</h3>
 
-## Stuff I'm learning 📚
+## Stuff I'm learning 📚 
+I love learning and am constantly looking to grow in all areas of life. My favorite thing to learn is languages!
 - Improving my knowledge in both **frontend** and **backend** development.
-- Chinese 我最喜欢学习语言 (I love learning languages the most!)
+- Chinese 我最喜欢学习语言 
 
 ## Checkout My Journey
-Start Jan 10, 2023 • 🐍 [Code: RARE • Social Media Blog Website](https://github.com/roseylikeme/code-rare) • A continuous work in progress ❗️
+Start Jan 10, 2023 • 🐍 [Code: RARE • Social Media Blog Website](https://github.com/roseylikeme/code-rare) • Last Updated Sep 11, 2023
 
 Start Dec 19, 2022 • 🐍 [Stay Organized • To-Do](https://github.com/roseylikeme/stay-organized) • Completed Jan 8, 2023
 
