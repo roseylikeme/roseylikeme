@@ -8,7 +8,9 @@ I love learning and am constantly looking to grow in all areas of life. My favor
 - Chinese 我最喜欢学习语言 
 
 ## Checkout My Journey
-Start Jan 10, 2023 • 🐍 [Code: RARE • Social Media Blog Website](https://github.com/roseylikeme/code-rare) • Last Updated Sep 11, 2023
+Start Aug 16, 2023 • 🍾 [CNIT 133 Projects & Homeworks](https://github.com/roseylikeme/cnit133) • Last Updated Oct 26, 2023
+
+Start Jan 10, 2023 • 🐍 [Code: RARE • Social Media Blog Website](https://github.com/roseylikeme/code-rare) • Last Updated Sep 11, 2023 
 
 Start Dec 19, 2022 • 🐍 [Stay Organized • To-Do](https://github.com/roseylikeme/stay-organized) • Completed Jan 8, 2023
 
