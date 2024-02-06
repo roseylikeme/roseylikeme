@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Roselene Gabun!</h1>
 
-<h3 align="center">EX: Software Engineer Intern @ LinkedIn</h3>
+<h3 align="center">EX: Software Engineer @ LinkedIn</h3>
 
 ## Stuff I'm learning 📚 
 I love learning and am constantly looking to grow in all areas of life. My favorite thing to learn is languages!
