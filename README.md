@@ -5,6 +5,7 @@
 ## Stuff I'm learning 📚 
 I love learning and am constantly looking to grow in all areas of life. My favorite thing to learn is languages!
 - Improving my knowledge in both **frontend** and **backend** development.
+- Cyber Security 
 - Chinese 我最喜欢学习语言 
 
 ## Checkout My Journey
